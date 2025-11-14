@@ -60,3 +60,8 @@ Se você preferir, pode executar o script diretamente via Terminal, sem o app:
 
 ```bash
 bash fix_tcc_cam_mic.sh
+
+## Agradecimentos
+
+- Ao Gabriel Luchina e aos membros do Universo Hackintosh, a maior comunidade Hackintosh do Brasil e uma das maiores do mundo, por todas as referências e informações importantes que colaboraram para a criação deste código.
+- Comunidade Hackintosh BR e Dortania pelas referências de TCC/AMFI.
