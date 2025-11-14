@@ -59,7 +59,7 @@ Existem duas formas principais de uso:
 Se você preferir, pode executar o script diretamente via Terminal, sem o app:
 
 ```bash
-bash fix_tcc_cam_mic.sh
+bash fix_tcc_cam_mic.sh```
 
 ## Agradecimentos
 
